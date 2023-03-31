@@ -36,6 +36,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     marginLeft: SIZES.medium,
     borderRadius: SIZES.medium,
+    padding: 16,
   },
   applyBtnText: {
     fontSize: SIZES.medium,
